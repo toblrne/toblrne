@@ -1,4 +1,4 @@
-# Hello, I'm Ryan! 👋
+### Hello, I'm Ryan! 👋
 
 - Currently a second year Computer Science student at the Unviersity of British Columbia
 - Interested in full stack web development
