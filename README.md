@@ -1,4 +1,4 @@
-CS student @ UBC Vancouver 
+Sophomore CS Student @ UBC Vancouver 
 
 Currently:
 - Software Developer Intern @ LSR, a Canadian record label, working on internal tools
