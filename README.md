@@ -6,7 +6,7 @@ Currently:
 
 Interested in:
 - tech for social good
-- ai/ml
+- machine learning
 - mobile development
 
 Shoot me a message at ryantchgao@gmail.com if you want to chat!
