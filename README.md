@@ -2,6 +2,7 @@ Junior @ UBC CS
 
 Currently:
 - SWE Intern @ ICBC
+- Developer @ UBC Launch Pad
 
 Interested in:
 - tech for social good
