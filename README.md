@@ -9,4 +9,4 @@ Interested in:
 - machine learning
 - mobile development
 
-Shoot me a message at ryantchgao@gmail.com if you want to chat!
+Send me a message at ryantchgao@gmail.com if you want to chat!
