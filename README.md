@@ -5,7 +5,7 @@ Currently:
 - Developer @ UBC Launch Pad
 
 Interested in:
-- tech for social good
+- databases
 - machine learning
 - mobile development
 
