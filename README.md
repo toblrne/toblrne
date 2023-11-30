@@ -6,7 +6,8 @@ Currently:
 
 Interested in:
 - databases
+- distributed systems
 - machine learning
-- mobile development
+
 
 Send me a message at ryantchgao@gmail.com if you want to chat!
