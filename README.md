@@ -1,7 +1,7 @@
 Junior @ UBC CS
 
 Currently:
-- Developer @ UBC Launch Pad
+- SWE Intern @ Graycore
 
 Previously:
 - SWE Intern @ ICBC
