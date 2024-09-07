@@ -1,11 +1,7 @@
 Junior @ UBC CS
 
 Currently:
-- SWE Intern @ Graycore
-
-Previously:
-- SWE Intern @ ICBC
-- SWE Intern @ Enjou
+- SWE Intern @ Rivian
 
 Interested in:
 - databases
