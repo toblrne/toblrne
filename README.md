@@ -1,4 +1,4 @@
-SWE Intern @ Google (Maps)
+SWE Intern @ Google
 
 Currently:
 - Junior @ UBC CS
